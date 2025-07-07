@@ -1,4 +1,6 @@
 tensorflow==2.16.1
+scikit-learn==1.2.2
+pydantic==2.7.1
 keras==3.1.1
 fastapi==0.115.1
 uvicorn==0.29.0
@@ -36,3 +38,4 @@ packaging==24.0
 platformdirs==4.2.0
 pooch==1.8.1
 pycparser==2.22
+typing-extensions
