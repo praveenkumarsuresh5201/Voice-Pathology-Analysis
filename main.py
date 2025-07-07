@@ -25,7 +25,7 @@ app = FastAPI(title="Voice Analysis API",
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://voice-pathology-analysis.netlify.app/"],
+    allow_origins=["https://voice-pathology-analysis.netlify.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
