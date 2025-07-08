@@ -39,3 +39,4 @@ platformdirs==4.2.0
 pooch==1.8.1
 pycparser==2.22
 typing-extensions
+python-multipart
